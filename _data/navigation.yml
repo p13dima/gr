@@ -18,3 +18,5 @@ main:
     url: /method/
   - title: "Αγορά"
     url: /buy/
+  - title: "Twitter-feed"
+    url: /twitter-feed/
