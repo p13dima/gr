@@ -63,7 +63,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
-  email            :"p13dima@ionio.gr"
+  email            : "p13dima@ionio.gr"
   uri              :
   home             : "https://p13dima-gr.netlify.app/"
   bitbucket        :
