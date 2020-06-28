@@ -17,6 +17,6 @@ gallery:
     caption: "Το βιβλίο αρχικά δημοσιεύτηκε το 1988 με τον τίτλο The Psychology of Everyday Things"
 ---
 
-{% include_relative don-norman.md %}
+{% include_relative bio-don-norman.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Don Norman" %}
