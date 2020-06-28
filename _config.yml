@@ -63,7 +63,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
-  email            :
+  email            :"p13dima@ionio.gr"
   uri              :
   home             : "https://p13dima-gr.netlify.app/"
   bitbucket        :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "Mary59956920"
   vine             :
   weibo            :
   xing             :
@@ -261,6 +261,7 @@ defaults:
       layout: gallery-figure
       header: no
       show_meta: false
+      share: true
   - scope:
       path: ""
       type: quotes
@@ -268,6 +269,7 @@ defaults:
       layout: single
       header: no
       show_meta: false
+      share: true
   - scope:
       path: ""
       type: case-study
@@ -275,9 +277,11 @@ defaults:
       layout: single
       header: no
       show_meta: false
+      share: true
   - scope:
       path: ""
       type: biography
+      share: true
     values:
       layout: single
       header: no
