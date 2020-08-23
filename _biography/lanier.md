@@ -20,6 +20,6 @@ gallery:
     caption: "O Lanier προγραμμάτισε το Alien Garden το οποίο είχε μεγάλη επιτυχία λόγο των εξαιρετικών γραφικών του και της καινοτομίας του "
 ---
 
-{% include_relative lanier.md %}
+{% include_relative bio-lanier.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Jaron Lanier" %}
